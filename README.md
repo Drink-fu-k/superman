@@ -1,4 +1,4 @@
-# demo
+# koa和vue合在一起的项目，本地调用接口，避免跨域问题出现。
 
 ## Project setup
 ```
